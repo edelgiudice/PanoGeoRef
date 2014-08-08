@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanoGeRef", "PanoGeRef\PanoGeRef.csproj", "{31E04EBD-0CA9-4BB0-96B5-4204802FEB46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanoGeoRefLib", "PanoGeoRefLib\PanoGeoRefLib.csproj", "{AD3F9BE8-3707-4B1D-B644-DA3D53F6F28C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestPanoGeoRefLib", "UnitTestPanoGeoRefLib\UnitTestPanoGeoRefLib.csproj", "{5A8FC355-85FA-4C02-A300-2E6BF754B8EC}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://emdlgproject.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PanoGeoRefLib\\PanoGeoRefLib.csproj
+		SccProjectName1 = PanoGeoRefLib
+		SccLocalPath1 = PanoGeoRefLib
+		SccProjectUniqueName2 = PanoGeRef\\PanoGeRef.csproj
+		SccProjectName2 = PanoGeRef
+		SccLocalPath2 = PanoGeRef
+		SccProjectUniqueName3 = UnitTestPanoGeoRefLib\\UnitTestPanoGeoRefLib.csproj
+		SccProjectName3 = UnitTestPanoGeoRefLib
+		SccLocalPath3 = UnitTestPanoGeoRefLib
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E04EBD-0CA9-4BB0-96B5-4204802FEB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E04EBD-0CA9-4BB0-96B5-4204802FEB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E04EBD-0CA9-4BB0-96B5-4204802FEB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E04EBD-0CA9-4BB0-96B5-4204802FEB46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3F9BE8-3707-4B1D-B644-DA3D53F6F28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3F9BE8-3707-4B1D-B644-DA3D53F6F28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3F9BE8-3707-4B1D-B644-DA3D53F6F28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3F9BE8-3707-4B1D-B644-DA3D53F6F28C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A8FC355-85FA-4C02-A300-2E6BF754B8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8FC355-85FA-4C02-A300-2E6BF754B8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8FC355-85FA-4C02-A300-2E6BF754B8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8FC355-85FA-4C02-A300-2E6BF754B8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

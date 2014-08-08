@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<!-- Dati rekativi ai parametri di geolocalizzzione della panoramica-->
+<GeoPanoLst>
+  <GeoPanoData id="0">
+    <MapCoordinate Mapfilename="L:\Lavoro\Progetti\3DMBS\TEST\MappingMaps\DettaglioAereo.jpg">
+      <MapPoints>
+        <MapPoint id="P1">
+          <Lat>
+            39.252360
+          </Lat>
+          <Lon>
+            9.057920
+          </Lon>
+          <X>
+            36
+          </X>
+          <Y>
+            95
+          </Y>
+        </MapPoint>
+        <MapPoint id="P2">
+          <Lat>
+            39.255184
+          </Lat>
+          <Lon>
+            9.055155
+          </Lon>
+          <X>
+            1186
+          </X>
+          <Y>
+            113
+          </Y>
+        </MapPoint>
+        <MapPoint id="P3">
+          <Lat>
+            39.256456
+          </Lat>
+          <Lon>
+            9.057069
+          </Lon>
+          <X>
+            1214
+          </X>
+          <Y>
+            747
+          </Y>
+        </MapPoint>
+        <MapPoint id="P4">
+          <Lat>
+            39.253804
+          </Lat>
+          <Lon>
+            9.060188
+          </Lon>
+          <X>
+            46
+          </X>
+          <Y>
+            837
+          </Y>
+        </MapPoint>
+        <MapPoint id="P5">
+          <Lat>
+            39.254046
+          </Lat>
+          <Lon>
+            9.057425
+          </Lon>
+          <X>
+            542
+          </X>
+          <Y>
+           335
+          </Y>
+        </MapPoint>
+        <MapPoint id="P6">
+          <Lat>
+            39.254048
+          </Lat>
+          <Lon>
+            9.058577
+          </Lon>
+          <X>
+            363
+          </X>
+          <Y>
+            564
+          </Y>
+        </MapPoint>
+        <MapPoint id="P7">
+          <Lat>
+            39.255055
+          </Lat>
+          <Lon>
+            9.057352
+          </Lon>
+          <X>
+            812
+          </X>
+          <Y>
+            523
+          </Y>
+        </MapPoint>
+        <MapPoint id="P8">
+          <Lat>
+            39.254573
+          </Lat>
+          <Lon>
+            9.056146
+          </Lon>
+          <X>
+            876
+          </X>
+          <Y>
+            188
+          </Y>
+        </MapPoint>
+        <MapPoint id="P9">
+          <Lat>
+            39.255062
+          </Lat>
+          <Lon>
+            9.058737
+          </Lon>
+          <X>
+            598
+          </X>
+          <Y>
+            800
+          </Y>
+        </MapPoint>
+        <MapPoint id="P10">
+          <Lat>
+            39.255721
+          </Lat>
+          <Lon>
+            9.056456
+          </Lon>
+          <X>
+            1123
+          </X>
+          <Y>
+            479
+          </Y>
+        </MapPoint>
+      </MapPoints>
+    </MapCoordinate>
+    <PanoImages>
+      <PanoImage Id="0" Panofilename="test.jpg">
+        <ReferencePoints>
+          <ReferencePoint id="1">
+            <MapReference>
+              <X>
+                789
+              </X>
+              <Y>
+                176
+              </Y>
+            </MapReference>
+            <PanoReference>
+              <X>
+                1731
+              </X>
+              <Y>
+                290
+              </Y>
+            </PanoReference>
+          </ReferencePoint>
+
+          <ReferencePoint id="2">
+            <MapReference>
+              <X>
+               541
+              </X>
+              <Y>
+                334
+              </Y>
+            </MapReference>
+            <PanoReference>
+              <X>
+                1408
+              </X>
+              <Y>
+                339
+              </Y>
+            </PanoReference>
+          </ReferencePoint>
+
+          <ReferencePoint id="3">
+            <MapReference>
+              <X>
+                539
+              </X>
+              <Y>
+               687
+              </Y>
+            </MapReference>
+            <PanoReference>
+              <X>
+                1808
+              </X>
+              <Y>
+                569
+              </Y>
+            </PanoReference>
+          </ReferencePoint>
+
+          <ReferencePoint id="4">
+            <MapReference>
+              <X>
+                238
+              </X>
+              <Y>
+                468
+              </Y>
+            </MapReference>
+            <PanoReference>
+              <X>
+               782
+              </X>
+              <Y>
+                403
+              </Y>
+            </PanoReference>
+          </ReferencePoint>
+
+          <ReferencePoint id="5">
+            <MapReference>
+              <X>
+                181
+              </X>
+              <Y>
+                127
+              </Y>
+            </MapReference>
+            <PanoReference>
+              <X>
+                766
+              </X>
+              <Y>
+                283
+              </Y>
+            </PanoReference>
+          </ReferencePoint>
+          
+        </ReferencePoints>
+      </PanoImage>
+    </PanoImages>
+  </GeoPanoData>
+</GeoPanoLst>
+
